@@ -20,7 +20,7 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [code](https://github.com/Websail-NU/CODAH)
   
 - [CoLA](https://nyu-mll.github.io/CoLA/)
-  - [paper](https://arxiv.org/abs/1805.12471)
+  - [paper](https://arxiv.org/pdf/1805.12471.pdf)
   - [latest code](https://nyu-mll.github.io/CoLA/cola_public_1.1.zip)
   - [original code](https://nyu-mll.github.io/CoLA/cola_public_1.0.zip)
   
@@ -46,11 +46,11 @@ This document is supposed to be an up-to-date collection of common sense dataset
 
 - [HotpotQA](https://hotpotqa.github.io/)
   - [paper](https://arxiv.org/pdf/1809.09600.pdf)
-  - code
-    -[training set](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_train_v1.1.json)
-    -[dev set (distractor)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_distractor_v1.json)
-    -[dev set (full wiki)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_fullwiki_v1.json)
-    -[test set (full wiki)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_test_fullwiki_v1.json)
+  - code\
+    [training set](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_train_v1.1.json)\
+    [dev set (distractor)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_distractor_v1.json)\
+    [dev set (full wiki)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_fullwiki_v1.json)\
+    [test set (full wiki)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_test_fullwiki_v1.json)
     
 - MRPC
   - [paper](https://www.aclweb.org/anthology/I05-5002.pdf)
