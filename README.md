@@ -5,48 +5,52 @@ This document is supposed to be an up-to-date collection of common sense dataset
 
 - [ATOMIC](https://homes.cs.washington.edu/~msap/atomic/) 
   - [paper](https://homes.cs.washington.edu/~msap/atomic/data/sap2019atomic.pdf) 
-  - [code](https://homes.cs.washington.edu/~msap/atomic/data/atomic_data.tgz)
+  - [data](https://homes.cs.washington.edu/~msap/atomic/data/atomic_data.tgz)
 
 - CliCR
   - [paper](https://www.aclweb.org/anthology/N18-1140.pdf) 
-  - [code](https://github.com/clips/clicr)
+  - [data](https://github.com/clips/clicr)
   
 - CNN / Daily Mail
   - [paper](https://arxiv.org/pdf/1506.03340.pdf) 
-  - [code](https://github.com/deepmind/rc-data/)
+  - [data](https://github.com/deepmind/rc-data/)
 
 - CODAH
   - [paper](https://arxiv.org/pdf/1904.04365.pdf)
-  - [code](https://github.com/Websail-NU/CODAH)
+  - [data](https://github.com/Websail-NU/CODAH)
   
 - [CoLA](https://nyu-mll.github.io/CoLA/)
   - [paper](https://arxiv.org/pdf/1805.12471.pdf)
-  - [latest code](https://nyu-mll.github.io/CoLA/cola_public_1.1.zip)
-  - [original code](https://nyu-mll.github.io/CoLA/cola_public_1.0.zip)
+  - [latest data](https://nyu-mll.github.io/CoLA/cola_public_1.1.zip)
+  - [original data](https://nyu-mll.github.io/CoLA/cola_public_1.0.zip)
   
 - [CoQA](https://stanfordnlp.github.io/coqa/)
   - [paper](https://arxiv.org/pdf/1808.07042)
-  - code
-    -[training set](https://nlp.stanford.edu/data/coqa/coqa-train-v1.0.json)
-    -[dev set](https://nlp.stanford.edu/data/coqa/coqa-dev-v1.0.json)
+  - data/
+    [training set](https://nlp.stanford.edu/data/coqa/coqa-train-v1.0.json)/
+    [dev set](https://nlp.stanford.edu/data/coqa/coqa-dev-v1.0.json)
     
 - Cosmos QA
+  -[paper](https://arxiv.org/pdf/1909.00277.pdf)
+  -[data](https://github.com/wilburOne/cosmosqa/tree/master/data)
   
 - [ConceptNet](http://conceptnet.io/)
   - [paper for ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
   - [official introdution](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
-  - [code for Open Mind Common Sense project](https://github.com/commonsense/omcs)
+  - [data for Open Mind Common Sense project](https://github.com/commonsense/omcs)
   
 - [COPA](https://people.ict.usc.edu/~gordon/copa.html)
   - [paper](https://people.ict.usc.edu/~gordon/publications/AAAI-SPRING11A.PDF)
-  - [code](https://people.ict.usc.edu/~gordon/downloads/COPA-resources.tgz)
+  - [data](https://people.ict.usc.edu/~gordon/downloads/COPA-resources.tgz)
   
 
-- DROP
-
+- [DROP](https://allennlp.org/drop)
+  - [paper](https://arxiv.org/pdf/1903.00161.pdf)
+  - [data](https://s3-us-west-2.amazonaws.com/allennlp/datasets/drop/drop_dataset.zip)
+  
 - [HotpotQA](https://hotpotqa.github.io/)
   - [paper](https://arxiv.org/pdf/1809.09600.pdf)
-  - code\
+  - data\
     [training set](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_train_v1.1.json)\
     [dev set (distractor)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_distractor_v1.json)\
     [dev set (full wiki)](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_fullwiki_v1.json)\
@@ -54,21 +58,34 @@ This document is supposed to be an up-to-date collection of common sense dataset
     
 - MRPC
   - [paper](https://www.aclweb.org/anthology/I05-5002.pdf)
-  - [code](https://www.microsoft.com/en-us/download/confirmation.aspx?id=52398)
+  - [data](https://www.microsoft.com/en-us/download/confirmation.aspx?id=52398)
   
-- MS MARCO
+- [MS Macro](https://microsoft.github.io/msmarco/)
+  - [paper](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/webconf-2020-camera-rosset-et-al.pdf)
+  - [data](https://microsoft.github.io/msmarco/)
 
-- MultiRC
+- [MultiRC](https://cogcomp.seas.upenn.edu/multirc/)
+  - [paper](https://www.aclweb.org/anthology/N18-1023.pdf)
+  - [data](https://cogcomp.seas.upenn.edu/multirc/data/mutlirc-v2.zip)
+  
+- [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/)
+  - [paper](https://www.aclweb.org/anthology/N18-1023.pdf)
+  - [data](https://cogcomp.seas.upenn.edu/multirc/data/mutlirc-v2.zip)
+  
+- [Opinosis](https://kavita-ganesan.com/opinosis/#.XsAcdWgzY2w)
+  - [paper](https://www.aclweb.org/anthology/C10-1039.pdf)
+  - [data](https://github.com/kavgan/opinosis-summarization/blob/master/OpinosisDataset1.0_0.zip)
 
-- NewsQA
-
-- Opinosis
-
-- QALD
-
-- QAngaroo
-
-- QuAC
+- [QAngaroo](https://qangaroo.cs.ucl.ac.uk/)
+  - [paper](https://www.aclweb.org/anthology/C10-1039.pdf)
+  - [data](http://bit.ly/2m0W32k)
+  
+- [QuAC](https://quac.ai/)
+  - [paper](https://arxiv.org/abs/1808.07036)
+   - data\
+    [training set](https://s3.amazonaws.com/my89public/quac/train_v0.2.json)\
+    [dev set](https://s3.amazonaws.com/my89public/quac/val_v0.2.json)\
+  
 
 - Quasar
 
