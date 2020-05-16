@@ -84,7 +84,7 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [paper](https://arxiv.org/abs/1808.07036)
    - data\
     [training set](https://s3.amazonaws.com/my89public/quac/train_v0.2.json)\
-    [dev set](https://s3.amazonaws.com/my89public/quac/val_v0.2.json)\
+    [dev set](https://s3.amazonaws.com/my89public/quac/val_v0.2.json)
   
 
 - Quasar
