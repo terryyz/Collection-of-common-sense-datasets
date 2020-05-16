@@ -30,9 +30,9 @@ This document is supposed to be an up-to-date collection of common sense dataset
     [training set](https://nlp.stanford.edu/data/coqa/coqa-train-v1.0.json)/
     [dev set](https://nlp.stanford.edu/data/coqa/coqa-dev-v1.0.json)
     
-- Cosmos QA
-  -[paper](https://arxiv.org/pdf/1909.00277.pdf)
-  -[data](https://github.com/wilburOne/cosmosqa/tree/master/data)
+- [Cosmos QA](https://wilburone.github.io/cosmos/)
+  - [paper](https://arxiv.org/pdf/1909.00277.pdf)
+  - [data](https://github.com/wilburOne/cosmosqa/tree/master/data)
   
 - [ConceptNet](http://conceptnet.io/)
   - [paper for ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
