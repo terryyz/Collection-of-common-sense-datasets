@@ -88,6 +88,8 @@ This document is supposed to be an up-to-date collection of common sense dataset
   
 
 - Quasar
+  - [paper](https://arxiv.org/pdf/1707.03904.pdf)
+  - [data](ftp://curtis.ml.cmu.edu/quasar/)
 
 - RACE
 
