@@ -26,13 +26,13 @@ This document is supposed to be an up-to-date collection of common sense dataset
   
 - [CoQA](https://stanfordnlp.github.io/coqa/)
   - [paper](https://arxiv.org/pdf/1808.07042)
-  - data/
-    [training set](https://nlp.stanford.edu/data/coqa/coqa-train-v1.0.json)/
+  - data\
+    [training set](https://nlp.stanford.edu/data/coqa/coqa-train-v1.0.json)\
     [dev set](https://nlp.stanford.edu/data/coqa/coqa-dev-v1.0.json)
     
 - CoS-E
-  -[paper](https://arxiv.org/pdf/1906.02361.pdf)
-  -[data](https://github.com/salesforce/cos-e)
+  - [paper](https://arxiv.org/pdf/1906.02361.pdf)
+  - [data](https://github.com/salesforce/cos-e)
   
 - [Cosmos QA](https://wilburone.github.io/cosmos/)
   - [paper](https://arxiv.org/pdf/1909.00277.pdf)
@@ -115,8 +115,8 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [data](https://github.com/nyu-dl/dl4ir-searchQA)
 
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
-  - paper
-    [1.1](https://arxiv.org/pdf/1606.05250)
+  - paper\
+    [1.1](https://arxiv.org/pdf/1606.05250)\
     [2.0](https://arxiv.org/pdf/1806.03822)
   - [data](https://rajpurkar.github.io/SQuAD-explorer/)
   
