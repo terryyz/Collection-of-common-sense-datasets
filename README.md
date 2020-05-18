@@ -30,6 +30,10 @@ This document is supposed to be an up-to-date collection of common sense dataset
     [training set](https://nlp.stanford.edu/data/coqa/coqa-train-v1.0.json)/
     [dev set](https://nlp.stanford.edu/data/coqa/coqa-dev-v1.0.json)
     
+- CoS-E
+  -[paper](https://arxiv.org/pdf/1906.02361.pdf)
+  -[data](https://github.com/salesforce/cos-e)
+  
 - [Cosmos QA](https://wilburone.github.io/cosmos/)
   - [paper](https://arxiv.org/pdf/1909.00277.pdf)
   - [data](https://github.com/wilburOne/cosmosqa/tree/master/data)
@@ -68,6 +72,10 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [paper](https://www.aclweb.org/anthology/N18-1023.pdf)
   - [data](https://cogcomp.seas.upenn.edu/multirc/data/mutlirc-v2.zip)
   
+- NarrativeQA
+  - [paper](https://arxiv.org/pdf/1712.07040)
+  - [data](https://github.com/deepmind/narrativeqa)
+
 - [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/)
   - [paper](https://www.aclweb.org/anthology/N18-1023.pdf)
   - [data](https://cogcomp.seas.upenn.edu/multirc/data/mutlirc-v2.zip)
@@ -83,24 +91,41 @@ This document is supposed to be an up-to-date collection of common sense dataset
 - [QuAC](https://quac.ai/)
   - [paper](https://arxiv.org/abs/1808.07036)
    - data\
-    [training set](https://s3.amazonaws.com/my89public/quac/train_v0.2.json)\
-    [dev set](https://s3.amazonaws.com/my89public/quac/val_v0.2.json)
+     [training set](https://s3.amazonaws.com/my89public/quac/train_v0.2.json)\
+     [dev set](https://s3.amazonaws.com/my89public/quac/val_v0.2.json)
   
-
 - Quasar
   - [paper](https://arxiv.org/pdf/1707.03904.pdf)
-  - [data](ftp://curtis.ml.cmu.edu/quasar/)
+  - [data](https://github.com/bdhingra/quasar)
 
-- RACE
+- [RACE](https://www.cs.cmu.edu/~glai1/data/race/)
+  - [paper](https://arxiv.org/pdf/1704.04683)
+  - [data](http://www.cs.cmu.edu/~glai1/data/race/RACE.tar.gz)
 
-- RecipeQA
+- RecipeQA(??? Recipe for common sense)
 
-- ROCStories
+- [ROCStories](https://cs.rochester.edu/nlp/rocstories/)
+  - [paper](https://arxiv.org/pdf/1604.01696.pdf)
+  - data\
+    [val set](https://goo.gl/XWjas1)\
+    [test set](https://goo.gl/BcTtB4)
 
 - SearchQA
+  - [paper](https://arxiv.org/pdf/1704.05179.pdf)
+  - [data](https://github.com/nyu-dl/dl4ir-searchQA)
 
-- SQuAD
-
-- SWAG
+- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
+  - paper
+    [1.1](https://arxiv.org/pdf/1606.05250)
+    [2.0](https://arxiv.org/pdf/1806.03822)
+  - [data](https://rajpurkar.github.io/SQuAD-explorer/)
+  
+- [SWAG](https://rowanzellers.com/swag/)
+  - [paper](https://arxiv.org/pdf/1808.05326.pdf)
+  - [data](https://github.com/rowanz/swagaf/tree/master/data)
+  
+- WikiSQL
+  - [paper](https://arxiv.org/pdf/1709.00103)
+  - [data](https://github.com/salesforce/WikiSQL)
 
  
