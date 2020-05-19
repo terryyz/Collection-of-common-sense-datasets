@@ -24,6 +24,9 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [latest data](https://nyu-mll.github.io/CoLA/cola_public_1.1.zip)
   - [original data](https://nyu-mll.github.io/CoLA/cola_public_1.0.zip)
   
+- [commonsense-part-whole](https://github.com/isi-nlp/commonsense-part-whole)
+
+
 - [CoQA](https://stanfordnlp.github.io/coqa/)
   - [paper](https://arxiv.org/pdf/1808.07042)
   - data\
@@ -72,6 +75,8 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [paper](https://www.aclweb.org/anthology/N18-1023.pdf)
   - [data](https://cogcomp.seas.upenn.edu/multirc/data/mutlirc-v2.zip)
   
+ - [MultiNLI](https://cims.nyu.edu/~sbowman/multinli/) 
+ 
 - NarrativeQA
   - [paper](https://arxiv.org/pdf/1712.07040)
   - [data](https://github.com/deepmind/narrativeqa)
@@ -113,6 +118,8 @@ This document is supposed to be an up-to-date collection of common sense dataset
 - SearchQA
   - [paper](https://arxiv.org/pdf/1704.05179.pdf)
   - [data](https://github.com/nyu-dl/dl4ir-searchQA)
+
+- [SNLI](https://nlp.stanford.edu/projects/snli/)
 
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
   - paper\
