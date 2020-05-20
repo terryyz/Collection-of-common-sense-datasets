@@ -24,7 +24,9 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [latest data](https://nyu-mll.github.io/CoLA/cola_public_1.1.zip)
   - [original data](https://nyu-mll.github.io/CoLA/cola_public_1.0.zip)
   
-- [commonsense-part-whole](https://github.com/isi-nlp/commonsense-part-whole)
+- commonsense-part-whole
+  - [paper](https://www.aclweb.org/anthology/D19-1625.pdf)
+  - [data](https://github.com/isi-nlp/commonsense-part-whole)
 
 
 - [CoQA](https://stanfordnlp.github.io/coqa/)
