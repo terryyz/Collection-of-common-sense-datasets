@@ -75,7 +75,9 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [paper](https://www.aclweb.org/anthology/N18-1023.pdf)
   - [data](https://cogcomp.seas.upenn.edu/multirc/data/mutlirc-v2.zip)
   
- - [MultiNLI](https://cims.nyu.edu/~sbowman/multinli/) 
+- [MultiNLI](https://cims.nyu.edu/~sbowman/multinli/) 
+  - [paper](https://cims.nyu.edu/~sbowman/multinli/paper.pdf)
+  - [data](https://cims.nyu.edu/~sbowman/multinli/multinli_1.0.zip)
  
 - NarrativeQA
   - [paper](https://arxiv.org/pdf/1712.07040)
@@ -120,7 +122,9 @@ This document is supposed to be an up-to-date collection of common sense dataset
   - [data](https://github.com/nyu-dl/dl4ir-searchQA)
 
 - [SNLI](https://nlp.stanford.edu/projects/snli/)
-
+  - [paper](http://nlp.stanford.edu/pubs/snli_paper.pdf)
+  - [data](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
+  
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
   - paper\
     [1.1](https://arxiv.org/pdf/1606.05250)\
