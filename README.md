@@ -94,7 +94,11 @@ This document is supposed to be an up-to-date collection of common sense dataset
 - [QAngaroo](https://qangaroo.cs.ucl.ac.uk/)
   - [paper](https://www.aclweb.org/anthology/C10-1039.pdf)
   - [data](http://bit.ly/2m0W32k)
-  
+ 
+- [QASC](https://allenai.org/data/qasc)
+  - [paper](https://arxiv.org/pdf/1910.11473.pdf)
+  - [data](https://github.com/allenai/qasc#Corpus)
+
 - [QuAC](https://quac.ai/)
   - [paper](https://arxiv.org/abs/1808.07036)
    - data\
